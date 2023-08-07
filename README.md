@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=Rounded&color=3A748C&text=Welcome%20to-nl-&desc=lsh2613's%20Github👋&fontSize=35&animation=scaleIn" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=250&color=auto&text=Welcome%20to-nl-&desc=lsh2613's%20Github👋&fontSize=100&animation=scaleIn" />	
 </div>
 
 <h3 align="center">🙌 Introduction 🙌</h3>
@@ -74,7 +74,7 @@
 
 <br>
 <br>
-<div align="center">🌳 My contributions 🌳</div>
+<h3 align="center">🌳 My contributions 🌳</h3>
 <br>
 
 ![snake gif](https://github.com/lsh2613/lsh2613/blob/output/github-contribution-grid-snake.svg)
