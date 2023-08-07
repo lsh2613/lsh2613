@@ -74,7 +74,7 @@
 
 <br>
 <br>
-<h2 align="center">🌳 My contributions 🌳</h2>
+<h2 align="center">🌳 My Contributions 🌳</h2>
 <br>
 
 ![snake gif](https://github.com/lsh2613/lsh2613/blob/output/github-contribution-grid-snake.svg)
