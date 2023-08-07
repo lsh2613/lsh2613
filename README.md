@@ -12,7 +12,7 @@
 <br>
 
 <div align="center"> 
-  <h3 align="center">🪪 license 🪪</h3>
+  <h3 align="center">🪪 License 🪪</h3>
   <li>SQLD (22.12.02~)</li>
   <li>정보처리기사 (23.06.09~)</li>
 </div>
@@ -72,8 +72,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lsh2613&show_icons=true">
 </div>
 
+<br>
 
+<div align="center">🌳 My contributions 🌳</div>
+<br>
+
+![snake gif](https://github.com/lsh2613/lsh2613/blob/output/github-contribution-grid-snake.svg)
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
