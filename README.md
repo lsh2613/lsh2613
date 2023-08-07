@@ -2,7 +2,22 @@
 	<img src="https://capsule-render.vercel.app/api?type=Rounded&color=3A748C&text=Welcome%20to-nl-&desc=lsh2613's%20Github👋&fontSize=35&animation=scaleIn" />	
 </div>
 
+<h3 align="center">🙌 Introduction 🙌</h3>
+<p align="center">
+	안녕하세요, 웹 백엔드 개발자를 준비하고 있는 이승헌입니다.
+	<br>
+	현재 대학교 재학 중에 있습니다.
+</p>
 
+<br>
+
+<div align="center"> 
+  <h3 align="center">🪪 license 🪪</h3>
+  <li>SQLD (22.12.02~)</li>
+  <li>정보처리기사 (23.06.09~)</li>
+</div>
+
+<br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -32,7 +47,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ansible-D24939?style=flat&logo=Ansible&logoColor=white"/></a>&nbsp
-  
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh2613&layout=compact">
 </p>
 
 <br>
@@ -51,15 +69,10 @@
     
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/lsh2613">
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh2613&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=lsh2613&show_icons=true">
 </div>
 
 
-<div align="center">
-
-
-</div>
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
