@@ -1,14 +1,14 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=250&color=auto&text=Welcome%20to-nl-&desc=lsh2613's%20Github👋&fontSize=100&animation=scaleIn" />	
 </div>
-
+<!--
 <h2 align="center">🙌 Introduction 🙌</h2>
 <p align="center">
 	안녕하세요, 웹 백엔드 개발자를 준비하고 있는 이승헌입니다.
 	<br>
 	현재 대학교 재학 중에 있습니다.
 </p>
-
+-->
 <br>
 
 <div align="center"> 
@@ -64,13 +64,16 @@
 <br>
 
 <div align="center">
-  <h2 align="center">💻 My Github Stats 💻</h2>
+  <h2 align="center">💻 My Stats 💻</h2>
   <div>
-    
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/lsh2613">
   </div>
+   <a href="https://solved.ac/lsh2613">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=lsh2613">
+  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=lsh2613&show_icons=true">
 </div>
+
 
 <br>
 <br>
