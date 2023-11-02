@@ -22,3 +22,6 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+      - name: Set up Node.js
+        with:
+          node-version: 16
