@@ -1,6 +1,4 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=250&color=auto&text=Welcome%20to-nl-&desc=lsh2613's%20Github👋&fontSize=100&animation=scaleIn" />	
-</div>
+
 <!--
 <h2 align="center">🙌 Introduction 🙌</h2>
 <p align="center">
@@ -10,6 +8,14 @@
 </p>
 -->
 <br>
+
+<div align="center"> 
+  <h2 align="center">💁🏼‍♂️ Footprint</h2>
+  <li>🚗 현대 소프티어 부트캠프 백엔드 과정 수료 (2023.12 ~ 2024.02)</li>
+  <li>🧑🏼‍💻 삼성 DX 23년 하계 대학 생 S/W 알고리즘 역량강화 이수 (2023.07 ~ 2023.08)</li>
+  <li>🏫 Computer Engineering Department of Kyunggi University (2018.03 ~ 2024.02)</li>
+</div>
+<h2 align="center">  </h2>
 
 <div align="center"> 
   <h2 align="center">🪪 License 🪪</h2>
