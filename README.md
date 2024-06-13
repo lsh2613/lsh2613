@@ -12,7 +12,7 @@
 <div align="center"> 
   <h2 align="center">💁🏼‍♂️ Footprint</h2>
   <li>🚗 현대 소프티어 부트캠프 백엔드 과정 수료 (2023.12 ~ 2024.02)</li>
-  <li>🧑🏼‍💻 삼성 DX 23년 하계 대학 생 S/W 알고리즘 역량강화 이수 (2023.07 ~ 2023.08)</li>
+  <li>🧑🏼‍💻 삼성 DX 23년 하계 대학생 S/W 알고리즘 역량강화 이수 (2023.07 ~ 2023.08)</li>
   <li>🏫 Kyonggi Univ - Department of Computer engineering (2018.03 ~ 2024.02)</li>
 </div>
 
@@ -46,8 +46,6 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>&nbsp
