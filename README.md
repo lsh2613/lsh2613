@@ -16,9 +16,6 @@
 
 <div align="center">
   <h2 align="center">💻 My Stats 💻</h2>
-  <div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/lsh2613">
-  </div>
    <a href="https://solved.ac/lsh2613">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=lsh2613">
   </a>
