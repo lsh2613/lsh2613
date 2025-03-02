@@ -2,7 +2,7 @@
 <div align="center"> 
   <h2 align="center">💁🏼‍♂️ Footprint</h2>
   
-| Experience | Period | Link |
+| Experience | Period | Project |
 |------|------|------|
 | ✈️ 일경험 프로젝트 IT 직무 3기 - 대상🥇 | 2024.12 ~ 2025.02.07 | [GitHub](https://github.com/Young-Flow/server) |
 | 🏦 DGB, iM Challenger 공모전 | 2024.11.11 ~ 2024.12.22 | [GitHub](https://github.com/lsh2613/iM-Butler) |
