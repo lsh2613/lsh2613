@@ -29,12 +29,12 @@
 <div align="center"> 
   <h2 align="center">👨‍💻 Personal Project</h2>
   
-| Learning content | Link |
+| Learning content | Description |Link |
 |-----------------|-----------------------------------------------------|
-| Elasticsearch   | [Repo](https://github.com/lsh2613/Elasticsearch) |
-| MySQL-Spatial Idx | [Repo](https://github.com/lsh2613/MySQL-Spatial-Idx) |
-| RabbitMQ       | [Repo](https://github.com/lsh2613/RabbitMQ) |
-| Redisson      | [Repo](https://github.com/lsh2613/redisson) |
+| Elasticsearch   | Spring + Elasticserach를 적용한 전문 검색 인덱스 성능 비교 | [Repo](https://github.com/lsh2613/Elasticsearch) |
+| MySQL-Spatial Idx | Spirng + MySQL의 Spatial Index를 적용한 공간 인덱스 성능 비교 | [Repo](https://github.com/lsh2613/MySQL-Spatial-Idx) |
+| RabbitMQ       | Spring + RabbitMQ(STOMP)를 적용한 1:1 채팅방 | [Repo](https://github.com/lsh2613/RabbitMQ) |
+| Redisson      | 낙관적 락, 비관적 락, 분산락을 통한 통시성 문제 해결 및 Redisson의 성능 개선 | [Repo](https://github.com/lsh2613/redisson) |
 </div>
 
 <br>
