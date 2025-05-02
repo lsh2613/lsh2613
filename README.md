@@ -27,6 +27,20 @@
 <br>
 
 <div align="center"> 
+  <h2 align="center">👨‍💻 Personal Project</h2>
+  
+| Learning content | Link |
+|-----------------|-----------------------------------------------------|
+| Elasticsearch   | [Repo](https://github.com/lsh2613/Elasticsearch) |
+| MySQL-Spatial Idx | [Repo](https://github.com/lsh2613/MySQL-Spatial-Idx) |
+| RabbitMQ       | [Repo](https://github.com/lsh2613/RabbitMQ) |
+| Redisson      | [Repo](https://github.com/lsh2613/redisson) |
+</div>
+
+<br>
+
+
+<div align="center"> 
   <h2 align="center">🪪 License</h2>
   <li>SQLD (22.12.02~)</li>
   <li>정보처리기사 (23.06.09~)</li>
