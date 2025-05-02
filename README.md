@@ -29,8 +29,8 @@
 <div align="center"> 
   <h2 align="center">👨‍💻 Personal Project</h2>
   
-| Learning content | Description |Link |
-|-----------------|-----------------------------------------------------|
+| Learning content | Description | Link |
+|----------------|-----------------------------------------------------|-------------------------------------------------|
 | Elasticsearch   | Spring + Elasticserach를 적용한 전문 검색 인덱스 성능 비교 | [Repo](https://github.com/lsh2613/Elasticsearch) |
 | MySQL-Spatial Idx | Spirng + MySQL의 Spatial Index를 적용한 공간 인덱스 성능 비교 | [Repo](https://github.com/lsh2613/MySQL-Spatial-Idx) |
 | RabbitMQ       | Spring + RabbitMQ(STOMP)를 적용한 1:1 채팅방 | [Repo](https://github.com/lsh2613/RabbitMQ) |
