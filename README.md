@@ -18,7 +18,7 @@
   
 | Name | Period | Description | Link |
 |------|--------|------------|------|
-| 📚 MOS | 25.02 ~ ing | 스터디 구인/구직 및 관리 플랫폼 |  |
+| 📚 MOS | 25.02 ~ ing | 스터디 구인/구직 및 관리 플랫폼 | [Repo](https://github.com/project-mos/backend) |
 | 🚀 Pitchain | 24.12 ~ ing | 숏폼 형식의 스타트업 로켓 피치 영상을 제공 및 크라우드펀딩 형식의 투자를 지원하는 웹 플랫폼 | [Repo](https://github.com/Young-Flow/server) |
 | 🏠 iM집사 | 24.11 ~ 24.12 | '집'을 '사'려고 할 때, 사용자 맞춤형 주택 검색 기능을 제공해주는 '집사' 서비스 | [Repo](https://github.com/lsh2613/iM-Butler) |
 | 🤖 Cobot | 24.06 ~ 24.08 | Git Repository에 추가된 코드를 기반으로 Q&A를 생성해주는 Bot | [Repo](https://github.com/lsh2613/Cobot) |
