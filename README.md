@@ -27,16 +27,16 @@
 <br>
 
 <div align="center"> 
-  <h2 align="center">👨‍💻 Personal Project</h2>
-  
-| Learning content | Description | Link |
-|----------------|-----------------------------------------------------|-------------------------------------------------|
-| Elasticsearch   | Spring + Elasticserach를 적용한 전문 검색 인덱스 성능 비교 | [Repo](https://github.com/lsh2613/Elasticsearch) |
-| MySQL-Spatial Idx | Spirng + MySQL의 Spatial Index를 적용한 공간 인덱스 성능 비교 | [Repo](https://github.com/lsh2613/MySQL-Spatial-Idx) |
-| RabbitMQ       | Spring + RabbitMQ(STOMP)를 적용한 1:1 채팅방 | [Repo](https://github.com/lsh2613/RabbitMQ) |
-| Redisson      | 낙관적 락, 비관적 락, 분산락을 통한 통시성 문제 해결 및 Redisson의 성능 개선 | [Repo](https://github.com/lsh2613/redisson) |
+  <h2 align="center"> 📖 Articles</h2>
+  <li><a href="https://velog.io/@lsh2613/MCP">MCP, AI 적응기</a></li>
+  <li><a href="https://velog.io/@lsh2613/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8C%80%EA%B8%B0%EC%97%B4-%EA%B5%AC%ED%98%84">Redis를 활용한 대기열 구현</a></li>
+  <li><a href="https://velog.io/@lsh2613/Elasticsearch-Full-text-index-%EC%A0%84%EB%AC%B8-%EA%B2%80%EC%83%89-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%95%99%EC%8A%B5-1">Elasticsearch - Full Text index 학습 및 성능 테스트</a></li>
+  <li><a href="https://velog.io/@lsh2613/MySQL-Spatial-Index-%ED%95%99%EC%8A%B5-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8">MySQL - Spatial Index 학습 및 성능 테스트</a></li>
+  <li><a href="https://velog.io/@lsh2613/Redisson-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0">함수형 프로그래밍으로 분산락(Redisson) 성능 개선</a></li>
+  <li><a href="https://velog.io/@lsh2613/%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BD-vs-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD-vs-%EB%B6%84%EC%82%B0-%EB%9D%BD-with-Redisson">낙관적 락 vs 비관적 락 vs 분산 락 (with Redisson)</a></li>
+  <li><a href="https://velog.io/@lsh2613/RabbitMQ%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B1%84%ED%8C%85%EB%B0%A9-%EA%B5%AC%ED%98%84">RabbitMQ를 활용한 채팅방 구현</a></li>
+  <li><a href="https://velog.io/@lsh2613/No-OffestCursor-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84">No-Offest(Cursor) 방식의 무한스크롤 구현</a></li>
 </div>
-
 <br>
 
 
