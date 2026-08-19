@@ -1,6 +1,45 @@
-env:
-  TIMEZONE: Asia/Seoul                  # 시간대 (기본: Asia/Seoul)
-  ALL_COMMITS: 'true'                   # true: 전체 커밋 수 / false: 최근 1년
-  K_FORMAT: 'false'                     # true: 1.5k 형식 / false: 1,500 형식
-  OUTPUT_SVG: 'true'                    # true: README에 임베드할 SVG도 output/에 생성
-  OUTPUT_DIR: 'output'                  # SVG 출력 디렉터리
+name: Update Gists
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'output/**'
+      - 'README.md'
+      - 'README.ko.md'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */7 * * *'
+jobs:
+  update-gists:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run build
+      - run: node dist/index.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID_ACTIVITY: ${{ secrets.GIST_ID_ACTIVITY }}
+          GIST_ID_OVERVIEW: ${{ secrets.GIST_ID_OVERVIEW }}
+          TIMEZONE: Asia/Seoul
+          ALL_COMMITS: 'true'
+          K_FORMAT: 'false'
+          OUTPUT_SVG: 'true'
+          OUTPUT_DIR: 'output'
+      - name: Commit SVG output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --staged --quiet; then
+            echo "No SVG changes."
+          else
+            git commit -m "chore: update generated SVGs"
+            git push
+          fi
